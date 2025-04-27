@@ -3,6 +3,5 @@
     "command": "bun run build",
     "outputDirectory": "dist"
   },
-  "installCommand": "bun install",
-  "rootDirectory": "client"
+  "installCommand": "bun install"
 }
